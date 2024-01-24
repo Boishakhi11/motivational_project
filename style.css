@@ -1,0 +1,70 @@
+body {
+    background-color: gray;
+}
+div {
+    background-color: black;
+    height: 330px;
+    width: 300px;
+    
+}
+h1 {
+    color: white;
+    text-transform: uppercase;
+    margin-left: 30%;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    color: white;
+    text-align: center;
+   
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+.clock {
+    border: 5px solid white;
+    width: 50;
+      
+}
+
+.water {
+    border: 5px solid white;
+    margin-right: 30;
+    margin-left: 310px;
+    
+
+}
+
+.workout {
+    border: 5px solid white;
+    margin-left: 620px;
+    
+
+}
+
+.bath {
+    border: 5px solid white;
+     margin-left: 930px;
+    
+
+}
+
+.breakfast {
+   
+    border: 5px solid white;
+    margin-left: 1100px;
+    
+}
